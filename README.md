@@ -69,6 +69,7 @@ Fluent in Spanish, English, and French, I excel in cross-cultural communication 
 
 - [LinkedIn](https://www.linkedin.com/in/orejandro79)
 - [GitHub](https://github.com/orejandro79)
+- Email: orejarenajaime1979@gmail.com
 
 ![GitHub Followers](https://img.shields.io/github/followers/orejandro79?style=social)
 ![GitHub Stars](https://img.shields.io/github/stars/orejandro79?style=social)
