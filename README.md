@@ -47,7 +47,7 @@ A **machine learning project** designed to predict user churn for **Waze**, prov
 ## 💼 Professional Experience  
 
 - **Program Assistant** | *08/2024 – 01/2025* | *HENRY (IT) – LATAM*  
-- **Data & Business Intelligence Analyst** | *03/2024 – Present* | *HENRY BOOTCAMP (IT) – LATAM*  
+- **Data & Business Intelligence Analyst** | *03/2024 – 09/2024* | *HENRY (IT) – LATAM*  
 - **Construction Manager** | *01/2022 – Present* | *PIKASSA (Construction) – Colombia*  
 - **General Manager** | *03/2011 – 08/2018* | *Abacco Interior Architecture (Construction) – Colombia*  
 
