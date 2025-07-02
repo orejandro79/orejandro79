@@ -1,96 +1,69 @@
-# 👋 Hi, I'm Jaime Orejarena!  
+# 👋 Hi there, I'm Jaime Orejarena
 
-### Data & Business Intelligence Analyst | Construction Project Management Professional | Machine Learning Enthusiast  
+### 🎯 Data Scientist & BI Analyst | SQL • Python • Power BI | Machine Learning | Construction & Operations Strategist
 
-I am an **Industrial Engineer** with over 12 years of experience in **construction project management, operations, and data analytics**. Passionate about transforming raw data into **strategic insights**, I leverage **Python, SQL, and Power BI** to solve complex problems, optimize processes, and drive business growth.  
+I'm a **Multidisciplinary Industrial Engineer** with over 12 years of experience leading construction projects and delivering **data-driven business solutions** in diverse sectors such as construction, fintech, and health tech.
 
-Currently, I am working on **WazeGrow: Predicting and Preventing User Churn for Waze**, a **machine learning project** aimed at improving user retention through **predictive modeling and actionable insights**.  
-
----
-
-## 🚀 About Me  
-
-🔹 Experienced in **data analysis, business intelligence, and visualization** using **Python, Power BI, and SQL**.  
-🔹 Passionate about **machine learning**, predictive analytics, and **data-driven decision-making**.  
-🔹 Skilled in **ETL, data cleaning, and database management**.  
-🔹 Multilingual communicator: **Spanish (Native), English (Fluent), French (Fluent)**.  
+With strong command of **Python, SQL, Power BI, and machine learning**, I specialize in developing forecasting models, automating analytics workflows, and building executive dashboards that drive actionable insights.
 
 ---
 
-## 🔬 Current Project: **WazeGrow – Predicting and Preventing User Churn for Waze**  
+## 🚀 What I Do
 
-A **machine learning project** designed to predict user churn for **Waze**, providing insights to enhance user experience and retention.  
-
-### 🔹 **Project Goals**  
-✔ Build a **predictive model** to identify users at risk of churn.  
-✔ Perform **Exploratory Data Analysis (EDA)** to uncover trends.  
-✔ Provide **actionable insights** for Waze leadership.  
-✔ Create **visualizations** for technical and non-technical audiences.  
-
-### 🔹 **Key Features**  
-✅ **EDA & Data Cleaning:** Analyzing trends and ensuring data quality.  
-✅ **Machine Learning Model:** Predictive modeling using **Logistic Regression & Random Forest**.  
-✅ **Visualizations:** **Tableau dashboards** and Python plots for data-driven insights.  
-✅ **Actionable Recommendations:** Strategies for improved user retention.  
-
-### 🔹 **Tools & Technologies**  
-🛠 **Python** (pandas, scikit-learn, matplotlib, seaborn)  
-🛠 **SQL** for data manipulation  
-🛠 **Tableau & Power BI** for visualization  
-🛠 **Git & GitHub** for version control  
-🛠 **PACE Framework** for project management  
-
-📊 **Project Repository**: [WazeGrow - Predicting and Preventing User Churn](https://github.com/orejandro79/WazeGrow)  
+🔹 **Data Analytics & BI** – Transform complex datasets into strategic decisions  
+🔹 **Machine Learning** – Predictive modeling, classification, churn analysis, forecasting  
+🔹 **Construction Intelligence** – Project optimization, cost forecasting, KPI dashboards  
+🔹 **Business Strategy** – Bridging technical solutions with business outcomes  
+🔹 **Mentorship** – Supporting analysts in Python, SQL, and dashboard development  
 
 ---
 
-## 💼 Professional Experience  
+## 🧠 Key Skills & Tools
 
-- **Program Assistant** | *08/2024 – 01/2025* | *HENRY (IT) – LATAM*  
-- **Data & Business Intelligence Analyst** | *03/2024 – 09/2024* | *HENRY (IT) – LATAM*  
-- **Construction Manager** | *01/2022 – Present* | *PIKASSA (Construction) – Colombia*  
-- **General Manager** | *03/2011 – 08/2018* | *Abacco Interior Architecture (Construction) – Colombia*  
-
----
-
-## 🎓 Education  
-
-- **Bachelor's Degree in Industrial Engineering** | *Universidad Pontificia Bolivariana – Colombia (2004)*  
-- **Bootcamp in Data Analytics** | *HENRY – Latam (2024)*  
+**Languages & Tools**  
+`Python` • `SQL` • `Power BI` • `Tableau` • `DAX` • `Excel` • `Git & GitHub`  
+**Libraries**  
+`pandas` • `numpy` • `scikit-learn` • `matplotlib` • `seaborn` • `statsmodels` • `XGBoost`  
+**Techniques**  
+EDA • Data Wrangling • Time Series Forecasting • Logistic Regression • Clustering • A/B Testing  
+**Soft Skills**  
+Agile SCRUM • Stakeholder Communication • Team Leadership • Trilingual (EN/ES/FR)
 
 ---
 
-## 🛠 Technical Skills  
+## 🏗️ Construction + Data Fusion Projects
 
-### 🔹 **Data & Business Intelligence**  
-✔ **Python:** pandas, numpy, scikit-learn, seaborn, matplotlib  
-✔ **SQL:** Database design, queries, ETL  
-✔ **Power BI & Tableau:** Dashboards, DAX, data visualization  
-✔ **Excel & Spreadsheets:** Advanced analytics, pivot tables  
+### 🧮 [Gambling Revenue Forecast](https://github.com/orejandro79/Gambling_Revenue_Project)  
+A business intelligence project using SQL, Python & Power BI to model and visualize gambling revenue.  
+⭐ Holt Forecasting | Winsorization | Interactive Dashboard
 
-### 🔹 **Machine Learning & Data Science**  
-✔ **EDA & Feature Engineering**  
-✔ **Predictive Modeling (Logistic Regression, Random Forest, etc.)**  
-✔ **Data Cleaning & Transformation**  
-✔ **Model Evaluation (Precision, Recall, F1-score)**  
-
-### 🔹 **Development & Version Control**  
-✔ **Git & GitHub:** Branching, merging, pull requests  
-✔ **Jupyter Notebook, Visual Studio Code**  
-✔ **SQL Server Management Studio (SSMS)**  
+### 📈 [JPMorgan Time Series Forecasting](https://github.com/orejandro79/JPMorgan-Chase---Co)  
+End-to-end pipeline predicting future product prices using advanced time series modeling.  
+⭐ Seasonal Decomposition | Monthly Aggregation | Custom Query Tool
 
 ---
 
-## 🌟 Featured Projects  
+## 🔬 ML & Analytics Projects
 
-🔹 **[Adventure Works Project](https://github.com/orejandro79/AdventureWorks-Project)** | *SQL Server | Power BI*  
-🔹 **[Biogenesys Project](https://github.com/orejandro79/BIOGENESYS-PROJECT)** | *Python | Power BI*  
-🔹 **[FASTFOOD DATABASE PROJECT](https://github.com/orejandro79/FAST-FOOD-DATABASE)** | *SQL Server*  
-🔹 **[Dream Team Knicks Analysis](https://github.com/orejandro79/Dream_team_knicks_analysis)** | *SQL Server | Python | Power BI*  
+### 🚗 [WazeGrow – Churn Prediction](https://github.com/orejandro79/WazeGrow)  
+Predicting user churn using XGBoost & Random Forest; delivering insights with Tableau.  
+⭐ EDA | Feature Engineering | Precision-Focused Modeling
+
+### 🧪 [Dream Team Knicks Analysis](https://github.com/orejandro79/Dream_team_knicks_analysis)  
+SQL & Python analysis of NBA team performance and dynamics.  
+⭐ SQL Joins | Correlation Analysis | Performance Breakdown
 
 ---
 
-## 📫 Connect with Me  
+## 🧰 Other Notable Projects
+
+- 🔹 [AdventureWorks Project](https://github.com/orejandro79/AdventureWorks-Project) – Sales reporting and data modeling using SQL Server and Power BI  
+- 🔹 [Biogenesys Project](https://github.com/orejandro79/BIOGENESYS-PROJECT) – Bio-lab dashboard for operational metrics  
+- 🔹 [Fast Food Database](https://github.com/orejandro79/FAST-FOOD-DATABASE) – SQL architecture and reporting pipeline
+
+---
+
+## 📫 Let’s Connect
 
 🔗 **[LinkedIn](https://www.linkedin.com/in/orejandro79)**  
 🔗 **[GitHub](https://github.com/orejandro79)**  
